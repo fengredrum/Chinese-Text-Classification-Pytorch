@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+.idea
+.devcontainer
+/THUCNews/log
+/THUCNews/saved_dict
+test.py
